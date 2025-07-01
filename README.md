@@ -42,10 +42,14 @@ git clone https://github.com/monireach2480/e-commerce
 cd e-commerce && npm install
 
 
+### 2. Configure `.env`
+
+```bash
 MONGO_URI=your_mongodb_connection_string
 STRIPE_KEY=your_stripe_secret_key
 CLOUDINARY_URL=your_cloudinary_credentials
 
 
-npm run dev  # Starts both frontend and backend
-npm test
+
+npm run dev
+
