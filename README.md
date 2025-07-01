@@ -97,4 +97,4 @@ For questions or suggestions, feel free to reach out via [GitHub Issues](https:/
 Made with ❤️ using the MERN stack.
 ```
 
-Let me know if you'd like to customize it for deployment instructions (like Vercel or Heroku) or include screenshots, a demo link, or badges!
+
