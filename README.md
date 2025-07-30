@@ -3,6 +3,10 @@
 
 # 🛍️ E-Commerce MERN Stack Platform
 
+
+![E-commerce Web Application Screenshot](./image.png)
+
+
 **Tagline:** *"Seamless online shopping with secure payments and scalable architecture."*
 
 ---
